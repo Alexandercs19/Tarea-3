@@ -1,0 +1,29 @@
+.PostCredits{
+
+    text-align:left;
+}
+
+.Inicio{
+
+    text-align: center;
+
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+body{
+
+    font-family: 'Open Sans', sans-serif;
+}
+
+main{
+    
+    background-attachment: fixed;
+    box-shadow: px 13px 33px #000;
+
+}
